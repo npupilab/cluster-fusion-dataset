@@ -8,3 +8,5 @@ The images in this dataset are sequential images and contain GPS information. Wh
 ).
 
 Extraction Code: 1314
+
+The full paper can be found [here](https://arxiv.org/abs/2304.04943).
